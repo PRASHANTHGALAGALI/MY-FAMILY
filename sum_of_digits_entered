@@ -1,0 +1,19 @@
+a=1
+sum=0
+#print("enter the numbers to add to the sum")
+print("enter  to quit")
+
+#a=int(input("Enter the value of the number :"))
+
+while a!=0: # & a<30) :
+ #print("The entered number is :",a)
+ print("The sum number is :",sum)
+ a=float(input("Enter the number to be added:"))
+ a=float(a)
+ 
+ sum=sum+a
+print( "the sum is :",sum)
+
+        
+        
+         
